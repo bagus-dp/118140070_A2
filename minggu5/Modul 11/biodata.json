@@ -1,0 +1,23 @@
+{
+    "biodata": {
+        "nama" : "Bagus Dwi Prasetyo",
+        "saudara" : "2 bersaudara : Saya anak kedua dan memiliki kaka perempuan",
+        "orangtua" : "ayah saya berumur 50 tahun dan ibu saya sudah meninggal dunia 16 tahun yang lalu",
+        "hobby" : "Hobby saya bermain futsal dan menonton channel yuotube detektif dan sejarah",
+        "alamat" : {
+            "#text" : "
+            Saya tinggal di daerah
+            ",
+            "kecamatan" : "Labuhan Ratu",
+            "kota" : "Bandar Lampung",
+        },
+        "mediaSosial": {
+            "instagram" : "bagusdwiprstyoo"
+            
+        },
+        "Idola" : {
+            "Pemainfutsal" : "Nattavut ",
+            "PemainSepakBola" : "Bruno Fernandes"
+        }
+    }
+}
